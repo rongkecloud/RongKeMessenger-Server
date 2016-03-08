@@ -30,15 +30,15 @@ MASTER_CHARSET=utf8<br>
 
 ##### Java代码配置文件修改<br>
 修改WEB-INF/config/servlet.conf配置文件，需要修改的部分：<br>
-mysql.base.info = db_ip:3306,db_name,db_user,db_pwd<br>
- 其中： db_ip替换为需要使用的数据库ip地址<br>
-        db_name替换为该应用所使用的数据库名称<br>
-        db_user 替换为连接数据库的用户名<br>
-        db_pwd 替换为连接数据库的密码<br>
+ mysql.base.info = db_ip:3306,db_name,db_user,db_pwd<br>
+ db_ip替换为需要使用的数据库ip地址<br>
+ db_name替换为该应用所使用的数据库名称<br>
+ db_user 替换为连接数据库的用户名<br>
+ db_pwd 替换为连接数据库的密码<br>
 应用在云视互动平台中的”服务器端密钥”，通过在云视互动官网注册开发者账号，创建应用后获得<br>
 rkcloudapi_serverkey= 您注册的serverkey<br>
-#图片上传临时目录，配置后，请给予可读可写权限。<br>
-#如果遇见头像上传失败，请确认改目录是否配置以及是否有读写权限。<br>
+图片上传临时目录，配置后，请给予可读可写权限。<br>
+如果遇见头像上传失败，请确认改目录是否配置以及是否有读写权限。<br>
 image_temp=/upload<br>
 
 #### 2、修改融科通服务端秘钥 <br>
