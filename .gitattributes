@@ -2,10 +2,9 @@
 * text=auto
 
 # Custom for Visual Studio
-#*.cs     diff=csharp
-*.js linguist-language=Java
-*.css linguist-language=Java
+*.cs     diff=csharp
 # Standard to msysgit
+*.java linguist-language=Java
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
