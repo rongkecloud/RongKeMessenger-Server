@@ -1,7 +1,9 @@
 # RongKeMessenger-Server
 RongKeMessenger for Server（融科通Server端源码）
 
-[Home Page(官方主页)](http://www.rongkecloud.com) | [Doc(文档手册)](http://www.rongkecloud.com/download/rongketong/doc.zip) | [云视互动开发者平台服务协议](http://www.rongkecloud.com/tecinfo/28.html) | [CHANGELOG(更新历史)](https://github.com/rongkecloud/RongKeMessenger-Server/blob/master/CHANGELOG.md)
+![云视互动](http://www.rongkecloud.com/skin/simple/img/logo-small.png)
+
+[Home Page(官方主页)](http://www.rongkecloud.com) | [Doc(文档手册)](http://www.rongkecloud.com/download/rongketong/doc.zip) |  [CHANGELOG(更新历史)](https://github.com/rongkecloud/RongKeMessenger-Server/blob/master/CHANGELOG.md)
 
 ## 功能介绍
   融科通是基于云视互动打造的前、后完全开源APP，除完善的APP框架和后台设计外，还涵盖了注册、登录、通讯录管理、单聊、群聊、音视频通话、多人语音聊天室等即时通讯互动功能，陆续融科通还会逐步推出朋友圈、附近的人、多媒体客服等高级功能，旨在帮助广大开发者能够基于融科通开源代码上最低成本快速实现自身的产品。<br/>
@@ -45,14 +47,21 @@ RongKeMessenger for Server（融科通Server端源码）
 ##### PHP代码修改
     修改RkCloudApi包下的RkCloud_Config.ini文件中的rkcloudapi_serverkey为您在开发者中心中创建应用的服务器密钥。<br>
 
-### 3、代码部署<br>
-#### PHP代码部署<br>
+#### 3、代码部署<br>
+##### PHP代码部署<br>
     将PHP版本的源码rkdemo解压到HTTP根目录，保证rkdemo目录及文件访问权限。<br>
     在浏览器访问：http://your-server-ip/rkdemo/login.php<br>
     返回:ret_code=9999，说明api部署成功。<br>
 
-#### Java代码部署<br>
+##### Java代码部署<br>
     将rkdemo项目生成.war文件，将此文件部署到tomcat服务器的webapps目录下，保证rkdemo目录及文件访问权限。<br>
     在浏览器访问：http://your-server-ip:8080/rkdemo/login.php<br>
     返回:ret_code=9999，说明api部署成功。<br>
 
+[Service Agreement(云视互动开发者平台服务协议)](http://www.rongkecloud.com/tecinfo/28.html)
+
+[![联系我们][contactImage]](http://kefu.rongkecloud.com/RKServiceClientWeb/index.html?ek=6f2683bb7f9b98aa09283fd8b47f4086aec37b56&ct=1&bg=3&gd=143)
+[Contact us(联系我们)][serviceLink]
+
+[contactImage]: http://www.rongkecloud.com/skin/simple/img/right/online.png "在线客服"
+[serviceLink]: http://kefu.rongkecloud.com/RKServiceClientWeb/index.html?ek=6f2683bb7f9b98aa09283fd8b47f4086aec37b56&ct=1&bg=3&gd=143 "在线客服"
