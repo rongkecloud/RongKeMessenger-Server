@@ -1,7 +1,7 @@
 # RongKeMessenger-Server
 RongKeMessenger for Server（融科通Server端源码）
 
-[Home Page(官方主页)](http://www.rongkecloud.com) | [Doc(文档手册)](http://www.rongkecloud.com/download/rongketong/doc.zip) | [CHANGELOG(更新历史)](https://github.com/rongkecloud/RongKeMessenger-Server/blob/master/CHANGELOG.md)
+[Home Page(官方主页)](http://www.rongkecloud.com) | [Doc(文档手册)](http://www.rongkecloud.com/download/rongketong/doc.zip) | [云视互动开发者平台服务协议](http://www.rongkecloud.com/tecinfo/28.html) | [CHANGELOG(更新历史)](https://github.com/rongkecloud/RongKeMessenger-Server/blob/master/CHANGELOG.md)
 
 ## 功能介绍
   融科通是基于云视互动打造的前、后完全开源APP，除完善的APP框架和后台设计外，还涵盖了注册、登录、通讯录管理、单聊、群聊、音视频通话、多人语音聊天室等即时通讯互动功能，陆续融科通还会逐步推出朋友圈、附近的人、多媒体客服等高级功能，旨在帮助广大开发者能够基于融科通开源代码上最低成本快速实现自身的产品。<br/>
