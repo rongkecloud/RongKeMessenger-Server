@@ -60,8 +60,6 @@ RongKeMessenger for Server（融科通Server端源码）
 
 [Service Agreement(云视互动开发者平台服务协议)](http://www.rongkecloud.com/tecinfo/28.html)
 
-[![联系我们][contactImage]](http://kefu.rongkecloud.com/RKServiceClientWeb/index.html?ek=6f2683bb7f9b98aa09283fd8b47f4086aec37b56&ct=1&bg=3&gd=143)
 [Contact us(联系我们)][serviceLink]
 
-[contactImage]: http://www.rongkecloud.com/skin/simple/img/right/online.png "在线客服"
 [serviceLink]: http://kefu.rongkecloud.com/RKServiceClientWeb/index.html?ek=6f2683bb7f9b98aa09283fd8b47f4086aec37b56&ct=1&bg=3&gd=143 "在线客服"
